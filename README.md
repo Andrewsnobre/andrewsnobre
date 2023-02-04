@@ -3,14 +3,14 @@
 I've been a developer for 20 years, I started as a back-end developer and last 5 years I'm going to blockchain developer.
 I am passionate about new technologies.
 
-I currently work at [ZUVIA](https://www.zuvia.ior/) as a Front-End Developer.
+I currently work at [ZUVIA](https://www.zuvia.io) as a Front-End Developer.
 
 
 ## My Technologies
 
 **Front-end Technologies I know**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,,html,css,,js,ts,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,jquery)](https://skillicons.dev)
 
 **Back-end Technologies I know**
 
@@ -22,10 +22,10 @@ I currently work at [ZUVIA](https://www.zuvia.ior/) as a Front-End Developer.
 
 **Others Technologies I know**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,,git,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,redis)](https://skillicons.dev)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrewsnobre/andrewsnobre/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" />
 </p>
