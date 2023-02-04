@@ -6,7 +6,7 @@ I currently work at [ZUVIA](https://zuvia.com.br) as Blockchain Engineer & Head 
 
 I'm a Solidity Smart Contracts developer and tokens since 2017 (Solidity -EVM ) and a great enthusiast participant in the world of cryptocurrencies since 2014. I have applications already developed in the market for records of documents such as books, music, insurance policies and certificates in blockchain etc. in addition to knowledge in DeFi, Hyperledger framework, Consensys Quorum, NFT's etc.
 
-Currently focused on developing smart contracts, NFT platforms at Candy Digital, client with NFT partnerships - Netflix, Gettyimages, Mastercard, MLB, NASCAR.
+Worked developing smart contracts and NFT platforms at Candy Digital, client with NFT partnerships - Netflix, Gettyimages, Mastercard, MLB, NASCAR.
 
 • Leadership profile and Hands-on, passionate about technology and researcher in innovation.
 • Skills in demonstrating the benefits and applicability of new 4.0 technologies.
