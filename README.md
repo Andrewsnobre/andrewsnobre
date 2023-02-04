@@ -45,5 +45,5 @@ Experience with system architecture and leading a software team.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Andrewsnobre/andrewsnobre/output/github-contribution-grid-snake.svg" />
 </p>
