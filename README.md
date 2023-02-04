@@ -14,7 +14,7 @@ I currently work at [ZUVIA](https://www.zuvia.io) as a Front-End Developer.
 
 **Back-end Technologies I know**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,php,nodejs,js,ts)](https://skillicons.dev)
 
 **Database Technologies I know**
 
