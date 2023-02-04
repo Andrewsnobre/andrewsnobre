@@ -32,15 +32,15 @@ Experience with system architecture and leading a software team.
 
 **Back-end Technologies I know**
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,php,nodejs,js,ts)]
+![My Skills](https://skillicons.dev/icons?i=solidity,php,nodejs,js,ts)
 
 **Database Technologies I know**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlserver)]
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlserver)
 
 **Others Technologies I know**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,redis)]
+![My Skills](https://skillicons.dev/icons?i=docker,git,redis)
 
 ---
 
