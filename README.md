@@ -28,7 +28,7 @@ Experience with system architecture and leading a software team.
 
 **Front-end Technologies I know**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,jquery)]
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,jquery)
 
 **Back-end Technologies I know**
 
