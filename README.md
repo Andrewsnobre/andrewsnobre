@@ -3,7 +3,7 @@
 I've been a developer for 20 years, I started as a back-end developer and last 5 years I'm going to blockchain developer.
 I am passionate about new technologies.
 
-I currently work at [ZUVIA](https://www.zuvia.io) as a Front-End Developer.
+I currently work at [ZUVIA](https://www.zuvia.io) as Blockchain Engineer & Head Digital Assets.
 
 
 ## My Technologies
