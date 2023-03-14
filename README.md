@@ -2,7 +2,7 @@
 
 I am passionate about new technologies.
 
-I currently work at [ZUVIA](https://zuvia.com.br) as Blockchain Engineer & Head Digital Assets.
+
 
 I'm a Solidity Smart Contracts developer and tokens since 2017 (Solidity -EVM ) and a great enthusiast participant in the world of cryptocurrencies since 2014. I have applications already developed in the market for records of documents such as books, music, insurance policies and certificates in blockchain etc. in addition to knowledge in DeFi, Hyperledger framework, Consensys Quorum, NFT's etc.
 
