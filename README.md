@@ -27,6 +27,9 @@ Experience with leading a software team.
 Bellow my handbook about Solidity:<br>
 https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Blockchain%20Developer.pdf
 
+Security Smart Contratcs:<br>
+https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Smart%20Contracts%20Security.pdf
+
 ## My Technologies
 
 **Front-end Technologies I know**
