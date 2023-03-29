@@ -7,22 +7,21 @@ I'm a Solidity Smart Contracts developer and tokens since 2017 (Solidity -EVM ) 
 
 I Worked as CTO (Startup Everblock 2020-2022) and now Senior Blockchain engineer, developing smart contracts and NFT platforms at Candy Digital(New York-EUA), client with NFT partnerships - Netflix, Gettyimages, Mastercard, MLB, NASCAR beyond Audit and security smart contracts.
 
-• Leadership profile and Hands-on, passionate about technology and researcher in innovation.
-• Skills in demonstrating the benefits and applicability of new 4.0 technologies.
-• High capacity and flexibility in managing partnerships and implementing results.
-• I have networks in the innovation and startup ecosystem, participating in industry 4.0 events.
-• Speaker on Blockchain/DLT and decentralized storage events
-• Focused on competitive/disruptive differentials, generating increased effectiveness and cost reduction.
+• Leadership profile and Hands-on, passionate about technology and researcher in innovation.<br>
+• Skills in demonstrating the benefits and applicability of new 4.0 technologies.<br>
+• High capacity and flexibility in managing partnerships and implementing results.<br>
+• I have networks in the innovation and startup ecosystem, participating in industry 4.0 events.<br>
+• Speaker on Blockchain/DLT and decentralized storage events<br>
+• Focused on competitive/disruptive differentials, generating increased effectiveness and cost reduction.<br>
 • Data Science Academy Mentor in 2020.
 
 
-20+ years of professional experience in software development
-5+ Experience with Solidity and Ethereum blockchain (EVM)
-Practical experience with Solidity development with Audit
-Experience creating non-fungible tokens (NFT) 
-Project management skills
-Experience with system architecture and leading a software team.
-
+20+ years of professional experience in software development<br>
+5+ Experience with Solidity and Ethereum blockchain (EVM)<br>
+Practical experience with Solidity development with Audit<br>
+Experience creating non-fungible tokens (NFT) <br>
+Project management skills<br>
+Experience with leading a software team.
 
 ## My Technologies
 
