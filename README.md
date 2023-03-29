@@ -16,7 +16,7 @@ I Worked CTO Startup (Everblock 2020/2022) and now Senior Blockchain engineer, d
 • Data Science Academy Mentor in 2020.
 
 
-18+ years of professional experience in software development
+20+ years of professional experience in software development
 4+ Experience with Solidity and Ethereum blockchain (EVM)
 Practical experience with Solidity development (with testing deployment)
 Experience creating non-fungible tokens (NFT) 
