@@ -20,6 +20,7 @@ I worked as CTO (Startup Everblock 2020-2022) and now Senior Blockchain engineer
 5+ Experience with Solidity and Ethereum blockchain (EVM).<br>
 Practical experience with Solidity development with Audit.<br>
 Experience with ERC Tokens(20/721/1155) / DAO´s / DeFi. <br>
+Familiarity with security and audit.<br>
 Project management skills.<br>
 Experience with leading a software team.
 
