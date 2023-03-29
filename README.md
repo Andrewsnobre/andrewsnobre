@@ -24,6 +24,9 @@ Familiarity with security and audit.<br>
 Project management skills.<br>
 Experience with leading a software team.
 
+Bellow my handbook about Solidity:<br>
+https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Blockchain%20Developer.pdf
+
 ## My Technologies
 
 **Front-end Technologies I know**
