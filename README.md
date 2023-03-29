@@ -11,16 +11,16 @@ I Worked as CTO (Startup Everblock 2020-2022) and now Senior Blockchain engineer
 • Skills in demonstrating the benefits and applicability of new 4.0 technologies.<br>
 • High capacity and flexibility in managing partnerships and implementing results.<br>
 • I have networks in the innovation and startup ecosystem, participating in industry 4.0 events.<br>
-• Speaker on Blockchain/DLT and decentralized storage events<br>
+• Speaker on Blockchain/DLT and decentralized storage events.<br>
 • Focused on competitive/disruptive differentials, generating increased effectiveness and cost reduction.<br>
 • Data Science Academy Mentor in 2020.
 
 
-20+ years of professional experience in software development<br>
-5+ Experience with Solidity and Ethereum blockchain (EVM)<br>
-Practical experience with Solidity development with Audit<br>
-Experience with ERC Tokens(20/721/1155) / DAO´s / DeFi <br>
-Project management skills<br>
+20+ years of professional experience in software development.<br>
+5+ Experience with Solidity and Ethereum blockchain (EVM).<br>
+Practical experience with Solidity development with Audit.<br>
+Experience with ERC Tokens(20/721/1155) / DAO´s / DeFi. <br>
+Project management skills.<br>
 Experience with leading a software team.
 
 ## My Technologies
