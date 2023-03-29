@@ -3,10 +3,11 @@
 I am passionate about new technologies.
 
 
-
 I'm a Solidity Smart Contracts developer and tokens since 2017 (Solidity -EVM ) and a great enthusiast participant in the world of cryptocurrencies since 2014. I have applications already developed in the market for records of documents such as books, music, insurance policies and certificates in blockchain etc. in addition to knowledge in DeFi, Hyperledger framework, Consensys Quorum, NFT's etc.
 
-I Worked developing smart contracts and NFT platforms at Candy Digital, client with NFT partnerships - Netflix, Gettyimages, Mastercard, MLB, NASCAR.
+I Worked CTO (Everblock 2020/2022) and after developing smart contracts and NFT platforms at Candy Digital, client with NFT partnerships - Netflix, Gettyimages, Mastercard, MLB, NASCAR.
+
+Audit and security smart contracts
 
 • Leadership profile and Hands-on, passionate about technology and researcher in innovation.
 • Skills in demonstrating the benefits and applicability of new 4.0 technologies.
@@ -15,6 +16,7 @@ I Worked developing smart contracts and NFT platforms at Candy Digital, client w
 • Speaker on Blockchain/DLT and decentralized storage events
 • Focused on competitive/disruptive differentials, generating increased effectiveness and cost reduction.
 • Data Science Academy Mentor in 2020.
+
 
 18+ years of professional experience in software development
 4+ Experience with Solidity and Ethereum blockchain (EVM)
