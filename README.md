@@ -16,13 +16,13 @@ I worked as CTO (Startup Everblock 2020-2022) and currently Blockchain Engineer,
 ✳️ Data Science Academy Mentor in 2020.
 
 
-:asterisk:20+ Years of professional experience in software development.<br>
-:asterisk:5+ Experience with Solidity and Ethereum blockchain (EVM) and Web3.<br>
-:asterisk:Deep experience with Solidity development with smart contracts upgrades and audit.<br>
-:asterisk:Experience with ERC Tokens(20/721/1155) / DAO´s / DeFi. <br>
-:asterisk:Familiarity with security.<br>
-:asterisk:Project management skills.<br>
-:asterisk:Experience with leading a software team.<br>
+:asterisk: 20+ Years of professional experience in software development.<br>
+:asterisk: 5+ Experience with Solidity and Ethereum blockchain (EVM) and Web3.<br>
+:asterisk: Deep experience with Solidity development with smart contracts upgrades and audit.<br>
+:asterisk: Experience with ERC Tokens(20/721/1155) / DAO´s / DeFi. <br>
+:asterisk: Familiarity with security.<br>
+:asterisk: Project management skills.<br>
+:asterisk: Experience with leading a software team.<br>
 
 ![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)<br>
 My handbook about Solidity:<br>
