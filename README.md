@@ -22,8 +22,9 @@ Deep experience with Solidity development with smart contracts upgrades and audi
 Experience with ERC Tokens(20/721/1155) / DAO´s / DeFi. <br>
 Familiarity with security.<br>
 Project management skills.<br>
-Experience with leading a software team.
+Experience with leading a software team.<br>
 
+![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)<br>
 Bellow my handbook about Solidity:<br>
 https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Blockchain%20Developer.pdf
 
