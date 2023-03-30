@@ -25,7 +25,7 @@ Project management skills.<br>
 Experience with leading a software team.<br>
 
 ![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)<br>
-Bellow my handbook about Solidity:<br>
+My handbook about Solidity:<br>
 https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Blockchain%20Developer.pdf
 
 Security Smart Contracts:<br>
