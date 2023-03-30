@@ -50,7 +50,6 @@ https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Smart%20Contra
 ![My Skills](https://skillicons.dev/icons?i=docker,git,redis)
 
 ---
-<img src="https://i.gifer.com/5GJg.gif" height="40" width="40" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andrewsnobre/andrewsnobre/output/github-contribution-grid-snake.svg" />
