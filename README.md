@@ -5,7 +5,7 @@ I am passionate about new technologies.
 
 I'm a blockchain Smart Contracts developer since 2017 (Solidity -EVM ) and a great enthusiast participant in the world of cryptocurrencies since 2014. I have applications already developed in the market for records of documents such as books, music, insurance policies and certificates in blockchain etc. in addition to knowledge in DeFi, DAOs, Audit, NFT's and related technologies.
 
-I worked as CTO (Startup Everblock 2020-2022) and now Senior Blockchain engineer, developing smart contracts and NFT platforms at Candy Digital(New York-EUA), client with NFT partnerships - Netflix, Gettyimages, Mastercard, MLB, NASCAR beyond Audit and security smart contracts.
+I worked as CTO (Startup Everblock 2020-2022) and now Senior Blockchain engineer, developing smart contracts and NFT platforms at Candy Digital(New York-EUA), client with NFT partnerships - Netflix, Gettyimages, Mastercard, MLB, NASCAR beyond Audit, security and smart contracts upgrades.
 
 • Leadership profile and Hands-on, passionate about technology and researcher in innovation.<br>
 • Skills in demonstrating the benefits and applicability of new 4.0 technologies.<br>
