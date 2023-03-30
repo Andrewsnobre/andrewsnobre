@@ -5,7 +5,7 @@ I am passionate about new technologies:exclamation:
 
 I'm a blockchain Smart Contracts developer since 2017 (Solidity -EVM ) and a great enthusiast participant in the world of cryptocurrencies since 2014. I have applications already developed in the market for records of documents such as books, music, insurance policies and certificates in blockchain etc. in addition to knowledge in DeFi, DAOs, Cripto, NFT's and related technologies.
 
-I worked as CTO (Startup Everblock 2020-2022) and now Senior Blockchain Engineer, developing smart contracts and NFT platforms at [Candy Digital](https://www.candy.com) (New York-EUA), client with NFT partnerships - Netflix, Gettyimages, Mastercard, MLB, NASCAR including audit, security and smart contracts upgrades.
+I worked as CTO (Startup Everblock 2020-2022) and now Senior Blockchain Engineer, developing smart contracts and NFT platforms at [Candy Digital](https://www.candy.com) (New York-EUA), client with NFT partnerships - [Netflix](https://www.ledgerinsights.com/candy-partners-netflix-for-stranger-things-nfts), [Gettyimages](https://finance.yahoo.com/news/getty-images-launch-nft-marketplace-040939449.html), [Mastercard](https://www.mastercard.com/news/perspectives/2022/simple-nft-purchasing-on-nft-marketplaces), [MLB](https://www.mlb.com/news/mlb-nft-partnership-with-candy-digital-to-expand-in-2022), [NASCAR](https://www.ledgerinsights.com/candy-to-launch-nfts-with-nascar-teams/) including audit, security and smart contracts upgrades.
 
 ✳️ Leadership profile and Hands-on, passionate about technology and researcher in innovation.<br>
 ✳️ Skills in demonstrating the benefits and applicability of new 4.0 technologies.<br>
