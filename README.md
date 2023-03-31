@@ -25,13 +25,13 @@ I worked as CTO (Startup Everblock 2020-2022) and currently Blockchain Engineer,
 :asterisk: Experience with leading a software team.<br>
 
 ![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)<br>
-My handbook about Solidity:<br>
+📚My handbook about Solidity:<br>
 https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Blockchain%20Developer.pdf
 
-Security Smart Contracts:<br>
+🚨Security Smart Contracts:<br>
 https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Smart%20Contracts%20Security.pdf
 
-## My Technologies
+## 🏆My Technologies
 
 **Front-end Technologies I know**
 
