@@ -29,7 +29,7 @@ https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Blockchain%20D
 🚨 Security Smart Contracts:<br>
 https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Smart%20Contracts%20Security.pdf
 
-## 🏆My Technologies
+## 🏆My Technologies:
 
 **Front-end Technologies I know**
 
