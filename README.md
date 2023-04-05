@@ -23,7 +23,7 @@ I worked as CTO (Startup Everblock 2020-2022) and currently Blockchain Engineer,
 🔹 Experience with leading a software team.<br>
 
 
-📚 My handbook about Solidity:<br>
+📚 My Handbook about Solidity:<br>
 https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Blockchain%20Developer.pdf
 
 🚨 Security Smart Contracts:<br>
