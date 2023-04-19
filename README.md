@@ -33,7 +33,7 @@ https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Smart%20Contra
 
 **Front-end Technologies I know**
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,jquery)
+![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,html,css,js,ts,jquery)
 
 **Back-end Technologies I know**
 
