@@ -6,13 +6,13 @@ I'm a blockchain Smart Contracts developer since 2017 (Solidity -EVM ) and a gre
 
 I worked as CTO (Startup Everblock 2020-2022) and currently Blockchain Engineer, developing smart contracts and NFT platforms at [Candy Digital](https://www.candy.com) (New York-USA), client with great partnerships - [Netflix](https://www.ledgerinsights.com/candy-partners-netflix-for-stranger-things-nfts), [Gettyimages](https://finance.yahoo.com/news/getty-images-launch-nft-marketplace-040939449.html), [Mastercard](https://www.mastercard.com/news/perspectives/2022/simple-nft-purchasing-on-nft-marketplaces), [MLB](https://www.mlb.com/news/mlb-nft-partnership-with-candy-digital-to-expand-in-2022), [NASCAR](https://www.ledgerinsights.com/candy-to-launch-nfts-with-nascar-teams/) including audit, security and smart contracts upgrades.
 
-🔸 Leadership profile and Hands-on, passionate about technology and researcher in innovation.<br>
-🔸 Skills in demonstrating the benefits and applicability of new 4.0 technologies.<br>
-🔸 High capacity and flexibility in managing partnerships and implementing results.<br>
-🔸 I have networks in the innovation and startup ecosystem, participating in industry 4.0 events.<br>
-🔸 Speaker on Blockchain/DLT and decentralized storage events.<br>
-🔸 Focused on competitive/disruptive differentials, generating increased effectiveness and cost reduction.<br>
-🔸 Data Science Academy Mentor in 2020.
+✔️ Leadership profile and Hands-on, passionate about technology and researcher in innovation.<br>
+✔️ Skills in demonstrating the benefits and applicability of new 4.0 technologies.<br>
+✔️ High capacity and flexibility in managing partnerships and implementing results.<br>
+✔️ I have networks in the innovation and startup ecosystem, participating in industry 4.0 events.<br>
+✔️ Speaker on Blockchain/DLT and decentralized storage events.<br>
+✔️ Focused on competitive/disruptive differentials, generating increased effectiveness and cost reduction.<br>
+✔️ Data Science Academy Mentor in 2020.
 
 🔹 20+ Years of professional experience in software development.<br>
 🔹 5+ Experience with Solidity and Ethereum blockchain (EVM) and Web3.<br>
