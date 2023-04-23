@@ -12,7 +12,7 @@ I worked as CTO (Startup Everblock 2020-2022) and currently Blockchain Engineer,
 ✔️ I have networks in the innovation and startup ecosystem, participating in industry 4.0 events.<br>
 ✔️ Speaker on Blockchain/DLT and decentralized storage events.<br>
 ✔️ Focused on competitive/disruptive differentials, generating increased effectiveness and cost reduction.<br>
-✔️ Data Science Academy Mentor in 2020.
+✔️ Data Science Academy Mentor in 2020.<br>
 ✔️ Microsoft Technical Audience Contributor (MTAC).
 
 🔹 20+ Years of professional experience in software development.<br>
