@@ -13,6 +13,7 @@ I worked as CTO (Startup Everblock 2020-2022) and currently Blockchain Engineer,
 ✔️ Speaker on Blockchain/DLT and decentralized storage events.<br>
 ✔️ Focused on competitive/disruptive differentials, generating increased effectiveness and cost reduction.<br>
 ✔️ Data Science Academy Mentor in 2020.
+✔️ Microsoft Technical Audience Contributor (MTAC).
 
 🔹 20+ Years of professional experience in software development.<br>
 🔹 5+ Experience with Solidity and Ethereum blockchain (EVM) and Web3.<br>
