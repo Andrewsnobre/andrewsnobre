@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30" width="30" />, I'm Andrews -  Blockchain Engineer👨‍💻</h1>
 
+
 I am passionate about new technologies:exclamation:
+
 
 I'm a blockchain Smart Contracts developer since 2017 (Solidity -EVM ) and a great enthusiast participant in the world of cryptocurrencies since 2014. I have applications already developed in the market for records of documents such as books, music, insurance policies and certificates in blockchain etc. in addition to knowledge in DeFi, DAOs, Cripto, NFT's and related technologies.
 
@@ -47,8 +49,8 @@ https://github.com/Andrewsnobre/BlockchainDeveloperBook/blob/main/Smart%20Contra
 
 **Others Technologies I know**
 
-![My Skills](https://skillicons.dev/icons?i=docker,git,redis)
----
+![My Skills](https://skillicons.dev/icons?i=docker,git,redis)<br>
+[![Andrews's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewsnobre&count_private=true&theme=dracula)](https://github.com/andrewsnobre/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andrewsnobre/andrewsnobre/output/github-contribution-grid-snake.svg" />
