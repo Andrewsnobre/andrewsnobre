@@ -2,7 +2,7 @@
 
 
 I am passionate about new technologies:exclamation:<br><br>
-What I Do 👨‍💻<br>
+What I Do? 👨‍💻<br>
 I write secure and optimized Smart Contracts.<br>
 I perform security audits on smart contracts and enhance the overall security of smart contracts on EVM chains.<br>
 
