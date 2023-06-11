@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30" width="30" />, I'm Andrews -  Blockchain Engineer👨‍💻</h1>
 
+🔥 Smart Contracts Developer - Solidity🔥
 
-I am passionate about new technologies:exclamation:<br><br>
+Passionate about new technologies, I am a results-driven Blockchain Smart Contracts developer with a strong focus on security and optimization. With 5+ years of experience in Solidity and Ethereum blockchain (EVM), I bring a wealth of expertise in delivering secure and efficient solutions:exclamation:<br><br>
 What I Do? 👨‍💻<br>
 I write secure and optimized Smart Contracts.<br>
 I perform security audits on smart contracts and enhance the overall security of smart contracts on EVM chains.<br>
